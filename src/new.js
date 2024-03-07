@@ -1,1 +1,1 @@
-console.log("new practise1")
+console.log("new practise")
